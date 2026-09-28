@@ -2,6 +2,7 @@
 
 A two-player penalty shootout. Create a room, invite a friend using the six-character code, and alternate between striker and goalkeeper.
 
+
 ## Exhibition teams
 
 Both players choose a club or national team in the lobby, pick a preferred home or away kit, and press Ready before the host starts. The catalog contains 92 teams across Africa, Europe, Asia, North America, South America and Oceania, using geographic regions and classic team-inspired colours. All teams have identical gameplay abilities. There are no official badges, season-specific kit replicas or licensed player likenesses.
